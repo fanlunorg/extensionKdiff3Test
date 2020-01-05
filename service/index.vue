@@ -9,7 +9,7 @@
     data() {
       return {
         user: {
-          name: 'li'
+          name: 'andrew'
         }
       }
     }
