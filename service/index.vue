@@ -22,7 +22,7 @@
       }
     },
     computed: {
-      
+      isBily: this.user.name === 'bily'
     }
   }
 </script>
