@@ -18,6 +18,7 @@
     methods: {
       showName() {
         console.log('name...')
+        this.user.name = 'bily'
       }
     }
   }
