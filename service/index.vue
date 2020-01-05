@@ -22,7 +22,10 @@
       }
     },
     computed: {
-      isBily: this.user.name === 'bily'
+      isBily: this.user.name === 'bily',
+      now: function() {
+        console.log('now...')
+      }
     }
   }
 </script>
