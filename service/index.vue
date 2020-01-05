@@ -20,6 +20,9 @@
         console.log('name...')
         this.user.name = 'wu bily'
       }
+    },
+    computed: {
+      
     }
   }
 </script>
