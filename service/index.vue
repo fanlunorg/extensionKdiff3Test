@@ -25,6 +25,9 @@
       isBily: this.user.name === 'bily',
       now: function () {
         return new Date()
+      },
+      lastDate: function () {
+        return 'lastDate'
       }
     }
   }
