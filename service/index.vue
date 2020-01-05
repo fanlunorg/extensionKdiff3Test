@@ -28,7 +28,7 @@
         return new Date()
       },
       lastDate: function () {
-        console.log('last date...')
+        console.log('also console...last date...')
         return 'lastDate'
       }
     }
