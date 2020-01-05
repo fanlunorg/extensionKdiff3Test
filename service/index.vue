@@ -28,6 +28,7 @@
         return new Date()
       },
       lastDate: function () {
+        console.log('last date...')
         return 'lastDate'
       }
     }
