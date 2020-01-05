@@ -26,7 +26,7 @@
       now: function() {
         console.log('now...')
         return new Date()
-      }
+      },
       lastDate: function () {
         return 'lastDate'
       }
