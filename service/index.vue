@@ -19,7 +19,7 @@
       showName() {
         console.log('name...')
       }
-    },
+    }
   }
 </script>
 
