@@ -6,7 +6,11 @@
 
 <script>
   export default {
-    
+    data() {
+      return {
+        user: {}
+      }
+    }
   }
 </script>
 
