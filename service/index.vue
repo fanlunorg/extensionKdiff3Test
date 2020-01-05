@@ -14,6 +14,11 @@
           class: 'susi'
         }
       }
+    },
+    methods: {
+      showName() {
+        console.log('show...')
+      }
     }
   }
 </script>
