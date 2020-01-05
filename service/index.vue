@@ -22,7 +22,10 @@
       }
     },
     computed: {
-      isBily: this.user.name === 'bily'
+      isBily: this.user.name === 'bily',
+      now: function () {
+        return new Date()
+      }
     }
   }
 </script>
