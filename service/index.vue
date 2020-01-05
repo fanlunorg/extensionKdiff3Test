@@ -10,6 +10,7 @@
       return {
         user: {
           name: 'andrew',
+          age: 14,
           class: 'susi'
         }
       }
